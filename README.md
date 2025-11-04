@@ -1,6 +1,6 @@
 # 🌍 LinguaGenius — Learn Languages the Smart Way
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/coderharry1/duolingo-clone/blob/main/README.md)
-*Inspired by Duolingo. Built in a single Sunday sprint.*
+**Inspired by Duolingo. Built in a single Sunday sprint.**
 
 ## Executive Summary
 LinguaGenius is a lightweight, production-ready language learning MVP that demonstrates how to turn a concept into a working, scalable product in hours—not weeks. It showcases rapid prototyping, clean React architecture, telemetry-ready UI, and a clear path to AI-powered personalisation. Designed for enterprise audiences (Cisco, Google, Microsoft), it can be white-labelled for L&D, onboarding, support, and global workforce upskilling.
@@ -66,7 +66,7 @@ LinguaGenius/
 ✅ Built and deployed same day
 ✅ Clear AI and telemetry extension points
 
-## Why It Matters (for Cisco / Google / Microsoft)
+## Why It Matters 
 *   **Faster enablement:** onboard global teams with role-specific language micro-lessons.
 *   **Customer experience:** multilingual support readiness without heavy LMS migration.
 *   **Measurable outcomes:** telemetry-first design → track proficiency & completion cohorts.
@@ -149,7 +149,7 @@ Completion rate, time-to-first-lesson, D7/D30 retention, improvement on repeated
 ## Credits
 *   **Author:** S. Harish Krishnan — Data Science & AI
 *   **Location:** Sydney, Australia
-*   **Links:** [LinkedIn](https://www.linkedin.com/in/s-harish-krishnan/) · [Medium](https://medium.com/@s.harish.krishnan) · [Project Demo](https://duolingo-clone.vercel.app/)
+*   **Links:** [LinkedIn](https://www.linkedin.com/in/s-harish-krishnan/) · [Medium](https://medium.com/@s.harish.krishnan) · [Project Demo](https://duolingo-clone-7nuy992jh-coderharry1s-projects.vercel.app)
 
 ## License
 MIT — free to use, adapt, and extend.
