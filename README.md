@@ -3,7 +3,7 @@
 **Inspired by Duolingo. Built in a single Sunday sprint.**
 
 ## Executive Summary
-LinguaGenius is a lightweight, production-ready language learning MVP that demonstrates how to turn a concept into a working, scalable product in hours—not weeks. It showcases rapid prototyping, clean React architecture, telemetry-ready UI, and a clear path to AI-powered personalisation. Designed for enterprise audiences (Cisco, Google, Microsoft), it can be white-labelled for L&D, onboarding, support, and global workforce upskilling.
+LinguaGenius is a lightweight, production-ready language learning MVP that demonstrates how to turn a concept into a working, scalable product in hours, not weeks. It showcases rapid prototyping, clean React architecture, telemetry-ready UI, and a clear path to AI-powered personalisation. Designed for enterprise audiences, it can be white-labelled for L&D, onboarding, support, and global workforce upskilling.
 
 ## Problem → Solution (Enterprise Lens)
 ### The Problem
